@@ -1,0 +1,846 @@
+Variable,Country,Year,Value,Outlier Type,Threshold Breached
+ama_exchange_rate, Madagascar ,2021,3829.977849,High,414.5280142975
+ama_exchange_rate, Zanzibar ,2021,2297.764226,High,414.5280142975
+ama_exchange_rate, Armenia ,2021,503.769675,High,414.5280142975
+ama_exchange_rate, Mali ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Gabon ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Equatorial Guinea ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Paraguay ,2021,6774.162735,High,414.5280142975
+ama_exchange_rate, Uzbekistan ,2021,10609.46439,High,414.5280142975
+ama_exchange_rate, Guinea-Bissau ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Rwanda ,2021,988.6248066,High,414.5280142975
+ama_exchange_rate, Senegal ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Angola ,2021,631.4419555,High,414.5280142975
+ama_exchange_rate, Benin ,2021,554.6077989,High,414.5280142975
+ama_exchange_rate, Burkina Faso ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Costa Rica ,2021,620.78472,High,414.5280142975
+ama_exchange_rate, Sierra Leone ,2021,10439.42532,High,414.5280142975
+ama_exchange_rate, Guinea ,2021,9795.705833,High,414.5280142975
+ama_exchange_rate, Comoros ,2021,415.9558491,High,414.5280142975
+ama_exchange_rate, Congo ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Viet Nam ,2021,23159.78259,High,414.5280142975
+ama_exchange_rate, D.R. of the Congo ,2021,1989.391471,High,414.5280142975
+ama_exchange_rate, Chad ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Chile ,2021,758.9553787,High,414.5280142975
+ama_exchange_rate, Niger ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Colombia ,2021,3743.589819,High,414.5280142975
+ama_exchange_rate, Somalia ,2021,24300.0,High,414.5280142975
+ama_exchange_rate, Central African Republic ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Côte d'Ivoire ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Indonesia ,2021,14308.1439,High,414.5280142975
+ama_exchange_rate, Iran (Islamic Republic of) ,2021,111636.6283,High,414.5280142975
+ama_exchange_rate, Iraq ,2021,1450.0,High,414.5280142975
+ama_exchange_rate, South Sudan ,2021,1003.462331,High,414.5280142975
+ama_exchange_rate, Cambodia ,2021,4098.722795,High,414.5280142975
+ama_exchange_rate, Cameroon ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Togo ,2021,554.530675,High,414.5280142975
+ama_exchange_rate, Myanmar ,2021,1583.083333,High,414.5280142975
+ama_exchange_rate, Kazakhstan ,2021,425.9075,High,414.5280142975
+ama_exchange_rate, Mongolia ,2021,2849.288615,High,414.5280142975
+ama_exchange_rate, Lebanon ,2021,5863.748727,High,414.5280142975
+ama_exchange_rate, Republic of Korea ,2021,1143.951667,High,414.5280142975
+ama_exchange_rate, Burundi ,2021,1975.950881,High,414.5280142975
+ama_exchange_rate, Syrian Arab Republic ,2021,2187.5,High,414.5280142975
+ama_exchange_rate, Lao People's DR ,2021,9697.915789,High,414.5280142975
+ama_exchange_rate, Uganda ,2021,3587.051707,High,414.5280142975
+ama_exchange_rate, Yemen ,2021,1035.467186,High,414.5280142975
+ama_exchange_rate, Malawi ,2021,797.75,High,414.5280142975
+ama_exchange_rate, U.R. of Tanzania: Mainland ,2021,2297.764226,High,414.5280142975
+imf_based_exchange_rate, Madagascar ,2021,3829.977849,High,414.5280142975
+imf_based_exchange_rate, Zanzibar ,2021,2297.764226,High,414.5280142975
+imf_based_exchange_rate, Armenia ,2021,503.769675,High,414.5280142975
+imf_based_exchange_rate, Mali ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Gabon ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Equatorial Guinea ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Paraguay ,2021,6774.162735,High,414.5280142975
+imf_based_exchange_rate, Uzbekistan ,2021,10609.46439,High,414.5280142975
+imf_based_exchange_rate, Guinea-Bissau ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Rwanda ,2021,988.6248066,High,414.5280142975
+imf_based_exchange_rate, Senegal ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Angola ,2021,631.4419555,High,414.5280142975
+imf_based_exchange_rate, Benin ,2021,554.6077989,High,414.5280142975
+imf_based_exchange_rate, Burkina Faso ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Costa Rica ,2021,620.78472,High,414.5280142975
+imf_based_exchange_rate, Sierra Leone ,2021,10439.42532,High,414.5280142975
+imf_based_exchange_rate, Guinea ,2021,9795.705833,High,414.5280142975
+imf_based_exchange_rate, Comoros ,2021,415.9558491,High,414.5280142975
+imf_based_exchange_rate, Congo ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Viet Nam ,2021,23159.78259,High,414.5280142975
+imf_based_exchange_rate, D.R. of the Congo ,2021,1989.391471,High,414.5280142975
+imf_based_exchange_rate, Chad ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Chile ,2021,758.9553787,High,414.5280142975
+imf_based_exchange_rate, Niger ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Colombia ,2021,3743.589819,High,414.5280142975
+imf_based_exchange_rate, Somalia ,2021,24300.0,High,414.5280142975
+imf_based_exchange_rate, Central African Republic ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Côte d'Ivoire ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Indonesia ,2021,14308.1439,High,414.5280142975
+imf_based_exchange_rate, Iran (Islamic Republic of) ,2021,42000.0,High,414.5280142975
+imf_based_exchange_rate, Iraq ,2021,1450.0,High,414.5280142975
+imf_based_exchange_rate, Cambodia ,2021,4098.722795,High,414.5280142975
+imf_based_exchange_rate, Cameroon ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Togo ,2021,554.530675,High,414.5280142975
+imf_based_exchange_rate, Myanmar ,2021,1583.083333,High,414.5280142975
+imf_based_exchange_rate, Kazakhstan ,2021,425.9075,High,414.5280142975
+imf_based_exchange_rate, Mongolia ,2021,2849.288615,High,414.5280142975
+imf_based_exchange_rate, Lebanon ,2021,1507.5,High,414.5280142975
+imf_based_exchange_rate, Republic of Korea ,2021,1143.951667,High,414.5280142975
+imf_based_exchange_rate, Burundi ,2021,1975.950881,High,414.5280142975
+imf_based_exchange_rate, Syrian Arab Republic ,2021,2187.5,High,414.5280142975
+imf_based_exchange_rate, Lao People's DR ,2021,9697.915789,High,414.5280142975
+imf_based_exchange_rate, Uganda ,2021,3587.051707,High,414.5280142975
+imf_based_exchange_rate, Yemen ,2021,1035.467186,High,414.5280142975
+imf_based_exchange_rate, Malawi ,2021,797.75,High,414.5280142975
+imf_based_exchange_rate, U.R. of Tanzania: Mainland ,2021,2297.764226,High,414.5280142975
+population, Bangladesh ,2021,169356251.0,High,63845295.625
+population, Egypt ,2021,109262178.0,High,63845295.625
+population, France ,2021,66875883.0,High,63845295.625
+population, Ethiopia ,2021,120283026.0,High,63845295.625
+population, Russian Federation ,2021,145102755.0,High,63845295.625
+population, Pakistan ,2021,231402117.0,High,63845295.625
+population, Philippines ,2021,113880328.0,High,63845295.625
+population, Germany ,2021,83408554.0,High,63845295.625
+population, India ,2021,1407563842.0,High,63845295.625
+population, Viet Nam ,2021,97468029.0,High,63845295.625
+population, D.R. of the Congo ,2021,95894118.0,High,63845295.625
+population, China ,2021,1425893465.0,High,63845295.625
+population, Nigeria ,2021,213401323.0,High,63845295.625
+population, United States ,2021,336997624.0,High,63845295.625
+population, Indonesia ,2021,273753191.0,High,63845295.625
+population, Iran (Islamic Republic of) ,2021,87923432.0,High,63845295.625
+population, Thailand ,2021,71601103.0,High,63845295.625
+population, Japan ,2021,124612530.0,High,63845295.625
+population, Brazil ,2021,214326223.0,High,63845295.625
+population, Mexico ,2021,126705138.0,High,63845295.625
+population, Türkiye ,2021,84775404.0,High,63845295.625
+population, United Kingdom ,2021,67281039.0,High,63845295.625
+per_capita_gni, Belgium ,2021,51639.0,High,50218.625
+per_capita_gni, Liechtenstein ,2021,198294.0,High,50218.625
+per_capita_gni, Luxembourg ,2021,93369.0,High,50218.625
+per_capita_gni, Finland ,2021,54714.0,High,50218.625
+per_capita_gni, Qatar ,2021,65863.0,High,50218.625
+per_capita_gni, Germany ,2021,52885.0,High,50218.625
+per_capita_gni, Greenland ,2021,56613.0,High,50218.625
+per_capita_gni, Denmark ,2021,70390.0,High,50218.625
+per_capita_gni, Iceland ,2021,69996.0,High,50218.625
+per_capita_gni, Singapore ,2021,58770.0,High,50218.625
+per_capita_gni, Ireland ,2021,76726.0,High,50218.625
+per_capita_gni, Norway ,2021,93149.0,High,50218.625
+per_capita_gni," China, Hong Kong SAR ",2021,52777.0,High,50218.625
+per_capita_gni, Australia ,2021,64490.0,High,50218.625
+per_capita_gni, United States ,2021,70081.0,High,50218.625
+per_capita_gni, Cayman Islands ,2021,61982.0,High,50218.625
+per_capita_gni, Netherlands ,2021,56574.0,High,50218.625
+per_capita_gni, Switzerland ,2021,90045.0,High,50218.625
+per_capita_gni, Sweden ,2021,62469.0,High,50218.625
+per_capita_gni, Israel ,2021,53302.0,High,50218.625
+per_capita_gni, Canada ,2021,51741.0,High,50218.625
+per_capita_gni, Monaco ,2021,234317.0,High,50218.625
+per_capita_gni, Austria ,2021,54082.0,High,50218.625
+per_capita_gni, Bermuda ,2021,112607.0,High,50218.625
+per_capita_gni," China, Macao SAR ",2021,51684.0,High,50218.625
+agriculture_hunting_forestry_fishing_, Malaysia ,2021,35828708048.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Ukraine ,2021,21275195002.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Bangladesh ,2021,48265542603.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Egypt ,2021,48710599334.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, France ,2021,48514824779.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Ethiopia ,2021,37298985183.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Russian Federation ,2021,67533078862.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Pakistan ,2021,77657773775.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Philippines ,2021,39678420574.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Germany ,2021,36240345841.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, India ,2021,538000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Argentina ,2021,29352350216.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Viet Nam ,2021,45988233891.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Spain ,2021,37275243612.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, China ,2021,1350000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Nigeria ,2021,101000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Colombia ,2021,23361443597.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Australia ,2021,55031298801.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, United States ,2021,207000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Indonesia ,2021,158000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Iran (Islamic Republic of) ,2021,74688030049.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Italy ,2021,40667342822.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Canada ,2021,35298145664.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Thailand ,2021,43250334885.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Japan ,2021,51411331187.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Kenya ,2021,24748900929.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Republic of Korea ,2021,32409935734.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Brazil ,2021,111000000000.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Mexico ,2021,49503262341.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, Türkiye ,2021,45399712020.0,High,19903952885.0
+agriculture_hunting_forestry_fishing_, United Kingdom ,2021,21131537302.0,High,19903952885.0
+changes_in_inventories, Malaysia ,2021,11101061150.0,High,5278518791.25
+changes_in_inventories, Belgium ,2021,10630824729.0,High,5278518791.25
+changes_in_inventories, Egypt ,2021,8207342908.0,High,5278518791.25
+changes_in_inventories, Poland ,2021,30115875105.0,High,5278518791.25
+changes_in_inventories, France ,2021,23320090694.0,High,5278518791.25
+changes_in_inventories, Russian Federation ,2021,46260675710.0,High,5278518791.25
+changes_in_inventories, Pakistan ,2021,5480010616.0,High,5278518791.25
+changes_in_inventories, Philippines ,2021,-4394276534.0,Low,-3159281798.75
+changes_in_inventories, Germany ,2021,59140563725.0,High,5278518791.25
+changes_in_inventories, Czechia ,2021,11361984793.0,High,5278518791.25
+changes_in_inventories, Greece ,2021,10454199022.0,High,5278518791.25
+changes_in_inventories, India ,2021,29515077887.0,High,5278518791.25
+changes_in_inventories, Viet Nam ,2021,6552851457.0,High,5278518791.25
+changes_in_inventories, Spain ,2021,12098250632.0,High,5278518791.25
+changes_in_inventories, China ,2021,171000000000.0,High,5278518791.25
+changes_in_inventories, Ireland ,2021,7222585845.0,High,5278518791.25
+changes_in_inventories, Norway ,2021,10372060536.0,High,5278518791.25
+changes_in_inventories, Hungary ,2021,5774553632.0,High,5278518791.25
+changes_in_inventories, Australia ,2021,5494190740.0,High,5278518791.25
+changes_in_inventories, United States ,2021,-19091000000.0,Low,-3159281798.75
+changes_in_inventories, Indonesia ,2021,7767811121.0,High,5278518791.25
+changes_in_inventories, Iran (Islamic Republic of) ,2021,82578940747.0,High,5278518791.25
+changes_in_inventories, Switzerland ,2021,-20823814374.0,Low,-3159281798.75
+changes_in_inventories, Israel ,2021,8013534655.0,High,5278518791.25
+changes_in_inventories, Thailand ,2021,27969771600.0,High,5278518791.25
+changes_in_inventories, Japan ,2021,-4100977385.0,Low,-3159281798.75
+changes_in_inventories, Kazakhstan ,2021,6341743219.0,High,5278518791.25
+changes_in_inventories, Republic of Korea ,2021,9406341468.0,High,5278518791.25
+changes_in_inventories, Morocco ,2021,5545651510.0,High,5278518791.25
+changes_in_inventories, Brazil ,2021,-4010825455.0,Low,-3159281798.75
+changes_in_inventories, United Arab Emirates ,2021,15386506026.0,High,5278518791.25
+changes_in_inventories, Mexico ,2021,6812926404.0,High,5278518791.25
+changes_in_inventories, United Kingdom ,2021,11400632173.0,High,5278518791.25
+construction_, Belgium ,2021,28739288521.0,High,26183384610.875
+construction_, Bangladesh ,2021,37550041398.0,High,26183384610.875
+construction_, Egypt ,2021,30758142541.0,High,26183384610.875
+construction_, Poland ,2021,40852771724.0,High,26183384610.875
+construction_, France ,2021,148000000000.0,High,26183384610.875
+construction_, Russian Federation ,2021,121000000000.0,High,26183384610.875
+construction_, Philippines ,2021,27356761112.0,High,26183384610.875
+construction_, Germany ,2021,213000000000.0,High,26183384610.875
+construction_, Saudi Arabia ,2021,45513407534.0,High,26183384610.875
+construction_, India ,2021,233000000000.0,High,26183384610.875
+construction_, Spain ,2021,71987488973.0,High,26183384610.875
+construction_, China ,2021,1240000000000.0,High,26183384610.875
+construction_, Nigeria ,2021,40594204014.0,High,26183384610.875
+construction_, Australia ,2021,119000000000.0,High,26183384610.875
+construction_, United States ,2021,945000000000.0,High,26183384610.875
+construction_, Netherlands ,2021,47427886434.0,High,26183384610.875
+construction_, Indonesia ,2021,124000000000.0,High,26183384610.875
+construction_, Switzerland ,2021,39254346512.0,High,26183384610.875
+construction_, Sweden ,2021,37899897565.0,High,26183384610.875
+construction_, Israel ,2021,27810713649.0,High,26183384610.875
+construction_, Italy ,2021,94194975857.0,High,26183384610.875
+construction_, Canada ,2021,141000000000.0,High,26183384610.875
+construction_, Japan ,2021,276000000000.0,High,26183384610.875
+construction_, Republic of Korea ,2021,93300620219.0,High,26183384610.875
+construction_, Brazil ,2021,55139793755.0,High,26183384610.875
+construction_, Austria ,2021,31141351298.0,High,26183384610.875
+construction_, United Arab Emirates ,2021,32396771083.0,High,26183384610.875
+construction_, Mexico ,2021,89566500593.0,High,26183384610.875
+construction_, Türkiye ,2021,41491742720.0,High,26183384610.875
+construction_, United Kingdom ,2021,166000000000.0,High,26183384610.875
+exports_of_goods_and_services, Malaysia ,2021,257000000000.0,High,160279720789.25
+exports_of_goods_and_services, Belgium ,2021,516000000000.0,High,160279720789.25
+exports_of_goods_and_services, Luxembourg ,2021,181000000000.0,High,160279720789.25
+exports_of_goods_and_services, Poland ,2021,393000000000.0,High,160279720789.25
+exports_of_goods_and_services, France ,2021,871000000000.0,High,160279720789.25
+exports_of_goods_and_services, Russian Federation ,2021,549000000000.0,High,160279720789.25
+exports_of_goods_and_services, Germany ,2021,2000000000000.0,High,160279720789.25
+exports_of_goods_and_services, Czechia ,2021,205000000000.0,High,160279720789.25
+exports_of_goods_and_services, Saudi Arabia ,2021,290000000000.0,High,160279720789.25
+exports_of_goods_and_services, Denmark ,2021,238000000000.0,High,160279720789.25
+exports_of_goods_and_services, India ,2021,685000000000.0,High,160279720789.25
+exports_of_goods_and_services, Viet Nam ,2021,342000000000.0,High,160279720789.25
+exports_of_goods_and_services, Singapore ,2021,734000000000.0,High,160279720789.25
+exports_of_goods_and_services, Spain ,2021,499000000000.0,High,160279720789.25
+exports_of_goods_and_services, China ,2021,3530000000000.0,High,160279720789.25
+exports_of_goods_and_services, Ireland ,2021,678000000000.0,High,160279720789.25
+exports_of_goods_and_services, Norway ,2021,200000000000.0,High,160279720789.25
+exports_of_goods_and_services," China, Hong Kong SAR ",2021,751000000000.0,High,160279720789.25
+exports_of_goods_and_services, Australia ,2021,448000000000.0,High,160279720789.25
+exports_of_goods_and_services, United States ,2021,2540000000000.0,High,160279720789.25
+exports_of_goods_and_services, Netherlands ,2021,840000000000.0,High,160279720789.25
+exports_of_goods_and_services, Indonesia ,2021,256000000000.0,High,160279720789.25
+exports_of_goods_and_services, Switzerland ,2021,569000000000.0,High,160279720789.25
+exports_of_goods_and_services, Sweden ,2021,289000000000.0,High,160279720789.25
+exports_of_goods_and_services, Italy ,2021,689000000000.0,High,160279720789.25
+exports_of_goods_and_services, Canada ,2021,611000000000.0,High,160279720789.25
+exports_of_goods_and_services, Thailand ,2021,295000000000.0,High,160279720789.25
+exports_of_goods_and_services, Japan ,2021,910000000000.0,High,160279720789.25
+exports_of_goods_and_services, Republic of Korea ,2021,761000000000.0,High,160279720789.25
+exports_of_goods_and_services, Brazil ,2021,323000000000.0,High,160279720789.25
+exports_of_goods_and_services, Austria ,2021,269000000000.0,High,160279720789.25
+exports_of_goods_and_services, United Arab Emirates ,2021,425000000000.0,High,160279720789.25
+exports_of_goods_and_services, Mexico ,2021,523000000000.0,High,160279720789.25
+exports_of_goods_and_services, Türkiye ,2021,289000000000.0,High,160279720789.25
+exports_of_goods_and_services, United Kingdom ,2021,875000000000.0,High,160279720789.25
+final_consumption_expenditure, Belgium ,2021,433000000000.0,High,321422166804.5
+final_consumption_expenditure, Egypt ,2021,398000000000.0,High,321422166804.5
+final_consumption_expenditure, Poland ,2021,510000000000.0,High,321422166804.5
+final_consumption_expenditure, France ,2021,2280000000000.0,High,321422166804.5
+final_consumption_expenditure, Russian Federation ,2021,1210000000000.0,High,321422166804.5
+final_consumption_expenditure, Pakistan ,2021,323000000000.0,High,321422166804.5
+final_consumption_expenditure, Philippines ,2021,358000000000.0,High,321422166804.5
+final_consumption_expenditure, Germany ,2021,3040000000000.0,High,321422166804.5
+final_consumption_expenditure, Saudi Arabia ,2021,550000000000.0,High,321422166804.5
+final_consumption_expenditure, India ,2021,2260000000000.0,High,321422166804.5
+final_consumption_expenditure, Argentina ,2021,374000000000.0,High,321422166804.5
+final_consumption_expenditure, Spain ,2021,1110000000000.0,High,321422166804.5
+final_consumption_expenditure, China ,2021,9630000000000.0,High,321422166804.5
+final_consumption_expenditure, South Africa ,2021,341000000000.0,High,321422166804.5
+final_consumption_expenditure, Australia ,2021,1230000000000.0,High,321422166804.5
+final_consumption_expenditure, United States ,2021,19300000000000.0,High,321422166804.5
+final_consumption_expenditure, Netherlands ,2021,692000000000.0,High,321422166804.5
+final_consumption_expenditure, Indonesia ,2021,768000000000.0,High,321422166804.5
+final_consumption_expenditure, Iran (Islamic Republic of) ,2021,343000000000.0,High,321422166804.5
+final_consumption_expenditure, Switzerland ,2021,501000000000.0,High,321422166804.5
+final_consumption_expenditure, Sweden ,2021,444000000000.0,High,321422166804.5
+final_consumption_expenditure, Israel ,2021,350000000000.0,High,321422166804.5
+final_consumption_expenditure, Italy ,2021,1640000000000.0,High,321422166804.5
+final_consumption_expenditure, Canada ,2021,1520000000000.0,High,321422166804.5
+final_consumption_expenditure, Thailand ,2021,355000000000.0,High,321422166804.5
+final_consumption_expenditure, Japan ,2021,3720000000000.0,High,321422166804.5
+final_consumption_expenditure, Republic of Korea ,2021,1160000000000.0,High,321422166804.5
+final_consumption_expenditure, Brazil ,2021,1290000000000.0,High,321422166804.5
+final_consumption_expenditure, Austria ,2021,344000000000.0,High,321422166804.5
+final_consumption_expenditure, Mexico ,2021,981000000000.0,High,321422166804.5
+final_consumption_expenditure, Türkiye ,2021,560000000000.0,High,321422166804.5
+final_consumption_expenditure, United Kingdom ,2021,2590000000000.0,High,321422166804.5
+general_government_final_consumption_expenditure, Belgium ,2021,143000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Poland ,2021,128000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, France ,2021,717000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Russian Federation ,2021,313000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Germany ,2021,943000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Saudi Arabia ,2021,204000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Denmark ,2021,96769711633.0,High,76681566741.5
+general_government_final_consumption_expenditure, India ,2021,356000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Argentina ,2021,77193279269.0,High,76681566741.5
+general_government_final_consumption_expenditure, Spain ,2021,306000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, China ,2021,2820000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Norway ,2021,113000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, South Africa ,2021,82324695220.0,High,76681566741.5
+general_government_final_consumption_expenditure, Australia ,2021,382000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, United States ,2021,3350000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Netherlands ,2021,266000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Indonesia ,2021,108000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Iran (Islamic Republic of) ,2021,84146922256.0,High,76681566741.5
+general_government_final_consumption_expenditure, Switzerland ,2021,94712032208.0,High,76681566741.5
+general_government_final_consumption_expenditure, Sweden ,2021,165000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Israel ,2021,107000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Italy ,2021,417000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Canada ,2021,431000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Thailand ,2021,91957575987.0,High,76681566741.5
+general_government_final_consumption_expenditure, Japan ,2021,1060000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Republic of Korea ,2021,329000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Brazil ,2021,307000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Austria ,2021,104000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Mexico ,2021,150000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, Türkiye ,2021,107000000000.0,High,76681566741.5
+general_government_final_consumption_expenditure, United Kingdom ,2021,701000000000.0,High,76681566741.5
+gross_capital_formation, Belgium ,2021,155000000000.0,High,123996794343.75
+gross_capital_formation, Bangladesh ,2021,129000000000.0,High,123996794343.75
+gross_capital_formation, Poland ,2021,146000000000.0,High,123996794343.75
+gross_capital_formation, France ,2021,740000000000.0,High,123996794343.75
+gross_capital_formation, Russian Federation ,2021,399000000000.0,High,123996794343.75
+gross_capital_formation, Germany ,2021,992000000000.0,High,123996794343.75
+gross_capital_formation, Saudi Arabia ,2021,197000000000.0,High,123996794343.75
+gross_capital_formation, India ,2021,998000000000.0,High,123996794343.75
+gross_capital_formation, Spain ,2021,297000000000.0,High,123996794343.75
+gross_capital_formation, China ,2021,7600000000000.0,High,123996794343.75
+gross_capital_formation, Ireland ,2021,125000000000.0,High,123996794343.75
+gross_capital_formation, Nigeria ,2021,146000000000.0,High,123996794343.75
+gross_capital_formation, Australia ,2021,403000000000.0,High,123996794343.75
+gross_capital_formation, United States ,2021,4920000000000.0,High,123996794343.75
+gross_capital_formation, Netherlands ,2021,217000000000.0,High,123996794343.75
+gross_capital_formation, Indonesia ,2021,373000000000.0,High,123996794343.75
+gross_capital_formation, Iran (Islamic Republic of) ,2021,238000000000.0,High,123996794343.75
+gross_capital_formation, Switzerland ,2021,191000000000.0,High,123996794343.75
+gross_capital_formation, Sweden ,2021,165000000000.0,High,123996794343.75
+gross_capital_formation, Italy ,2021,422000000000.0,High,123996794343.75
+gross_capital_formation, Canada ,2021,472000000000.0,High,123996794343.75
+gross_capital_formation, Thailand ,2021,147000000000.0,High,123996794343.75
+gross_capital_formation, Japan ,2021,1250000000000.0,High,123996794343.75
+gross_capital_formation, Republic of Korea ,2021,581000000000.0,High,123996794343.75
+gross_capital_formation, Brazil ,2021,304000000000.0,High,123996794343.75
+gross_capital_formation, Austria ,2021,133000000000.0,High,123996794343.75
+gross_capital_formation, Mexico ,2021,264000000000.0,High,123996794343.75
+gross_capital_formation, Türkiye ,2021,230000000000.0,High,123996794343.75
+gross_capital_formation, United Kingdom ,2021,567000000000.0,High,123996794343.75
+gross_fixed_capital_formation_, Belgium ,2021,144000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Bangladesh ,2021,129000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Poland ,2021,116000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, France ,2021,717000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Russian Federation ,2021,353000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Germany ,2021,933000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Saudi Arabia ,2021,197000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, India ,2021,969000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Viet Nam ,2021,116000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Spain ,2021,285000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, China ,2021,7430000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Ireland ,2021,117000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Norway ,2021,112000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Nigeria ,2021,143000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Australia ,2021,398000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, United States ,2021,4940000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Netherlands ,2021,218000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Indonesia ,2021,365000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Iran (Islamic Republic of) ,2021,155000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Switzerland ,2021,212000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Sweden ,2021,163000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Italy ,2021,423000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Canada ,2021,474000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Thailand ,2021,119000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Japan ,2021,1250000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Republic of Korea ,2021,572000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Brazil ,2021,308000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Austria ,2021,132000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Mexico ,2021,257000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, Türkiye ,2021,230000000000.0,High,110591264360.75
+gross_fixed_capital_formation_, United Kingdom ,2021,555000000000.0,High,110591264360.75
+household_consumption_expenditure_, Belgium ,2021,291000000000.0,High,250922475465.25
+household_consumption_expenditure_, Bangladesh ,2021,285000000000.0,High,250922475465.25
+household_consumption_expenditure_, Egypt ,2021,366000000000.0,High,250922475465.25
+household_consumption_expenditure_, Poland ,2021,383000000000.0,High,250922475465.25
+household_consumption_expenditure_, France ,2021,1560000000000.0,High,250922475465.25
+household_consumption_expenditure_, Russian Federation ,2021,894000000000.0,High,250922475465.25
+household_consumption_expenditure_, Pakistan ,2021,285000000000.0,High,250922475465.25
+household_consumption_expenditure_, Philippines ,2021,297000000000.0,High,250922475465.25
+household_consumption_expenditure_, Germany ,2021,2100000000000.0,High,250922475465.25
+household_consumption_expenditure_, Saudi Arabia ,2021,346000000000.0,High,250922475465.25
+household_consumption_expenditure_, India ,2021,1910000000000.0,High,250922475465.25
+household_consumption_expenditure_, Argentina ,2021,297000000000.0,High,250922475465.25
+household_consumption_expenditure_, Spain ,2021,803000000000.0,High,250922475465.25
+household_consumption_expenditure_, China ,2021,6800000000000.0,High,250922475465.25
+household_consumption_expenditure_, Nigeria ,2021,268000000000.0,High,250922475465.25
+household_consumption_expenditure_, South Africa ,2021,258000000000.0,High,250922475465.25
+household_consumption_expenditure_, Australia ,2021,846000000000.0,High,250922475465.25
+household_consumption_expenditure_, United States ,2021,15900000000000.0,High,250922475465.25
+household_consumption_expenditure_, Netherlands ,2021,425000000000.0,High,250922475465.25
+household_consumption_expenditure_, Indonesia ,2021,660000000000.0,High,250922475465.25
+household_consumption_expenditure_, Iran (Islamic Republic of) ,2021,259000000000.0,High,250922475465.25
+household_consumption_expenditure_, Switzerland ,2021,407000000000.0,High,250922475465.25
+household_consumption_expenditure_, Sweden ,2021,279000000000.0,High,250922475465.25
+household_consumption_expenditure_, Italy ,2021,1220000000000.0,High,250922475465.25
+household_consumption_expenditure_, Canada ,2021,1080000000000.0,High,250922475465.25
+household_consumption_expenditure_, Thailand ,2021,263000000000.0,High,250922475465.25
+household_consumption_expenditure_, Japan ,2021,2660000000000.0,High,250922475465.25
+household_consumption_expenditure_, Republic of Korea ,2021,836000000000.0,High,250922475465.25
+household_consumption_expenditure_, Brazil ,2021,981000000000.0,High,250922475465.25
+household_consumption_expenditure_, Mexico ,2021,831000000000.0,High,250922475465.25
+household_consumption_expenditure_, Türkiye ,2021,453000000000.0,High,250922475465.25
+household_consumption_expenditure_, United Kingdom ,2021,1890000000000.0,High,250922475465.25
+imports_of_goods_and_services, Malaysia ,2021,230000000000.0,High,148967232103.75
+imports_of_goods_and_services, Belgium ,2021,510000000000.0,High,148967232103.75
+imports_of_goods_and_services, Luxembourg ,2021,151000000000.0,High,148967232103.75
+imports_of_goods_and_services, Poland ,2021,371000000000.0,High,148967232103.75
+imports_of_goods_and_services, France ,2021,929000000000.0,High,148967232103.75
+imports_of_goods_and_services, Russian Federation ,2021,379000000000.0,High,148967232103.75
+imports_of_goods_and_services, Philippines ,2021,149000000000.0,High,148967232103.75
+imports_of_goods_and_services, Germany ,2021,1780000000000.0,High,148967232103.75
+imports_of_goods_and_services, Czechia ,2021,197000000000.0,High,148967232103.75
+imports_of_goods_and_services, Saudi Arabia ,2021,203000000000.0,High,148967232103.75
+imports_of_goods_and_services, Denmark ,2021,209000000000.0,High,148967232103.75
+imports_of_goods_and_services, India ,2021,765000000000.0,High,148967232103.75
+imports_of_goods_and_services, Viet Nam ,2021,341000000000.0,High,148967232103.75
+imports_of_goods_and_services, Singapore ,2021,609000000000.0,High,148967232103.75
+imports_of_goods_and_services, Spain ,2021,477000000000.0,High,148967232103.75
+imports_of_goods_and_services, China ,2021,3060000000000.0,High,148967232103.75
+imports_of_goods_and_services, Ireland ,2021,479000000000.0,High,148967232103.75
+imports_of_goods_and_services," China, Hong Kong SAR ",2021,734000000000.0,High,148967232103.75
+imports_of_goods_and_services, Australia ,2021,346000000000.0,High,148967232103.75
+imports_of_goods_and_services, United States ,2021,3400000000000.0,High,148967232103.75
+imports_of_goods_and_services, Netherlands ,2021,737000000000.0,High,148967232103.75
+imports_of_goods_and_services, Indonesia ,2021,224000000000.0,High,148967232103.75
+imports_of_goods_and_services, Switzerland ,2021,448000000000.0,High,148967232103.75
+imports_of_goods_and_services, Sweden ,2021,262000000000.0,High,148967232103.75
+imports_of_goods_and_services, Italy ,2021,639000000000.0,High,148967232103.75
+imports_of_goods_and_services, Canada ,2021,609000000000.0,High,148967232103.75
+imports_of_goods_and_services, Thailand ,2021,296000000000.0,High,148967232103.75
+imports_of_goods_and_services, Japan ,2021,936000000000.0,High,148967232103.75
+imports_of_goods_and_services, Republic of Korea ,2021,696000000000.0,High,148967232103.75
+imports_of_goods_and_services, Brazil ,2021,307000000000.0,High,148967232103.75
+imports_of_goods_and_services, Austria ,2021,266000000000.0,High,148967232103.75
+imports_of_goods_and_services, United Arab Emirates ,2021,348000000000.0,High,148967232103.75
+imports_of_goods_and_services, Mexico ,2021,545000000000.0,High,148967232103.75
+imports_of_goods_and_services, Türkiye ,2021,291000000000.0,High,148967232103.75
+imports_of_goods_and_services, United Kingdom ,2021,899000000000.0,High,148967232103.75
+manufacturing_, Malaysia ,2021,87552726157.0,High,54817184682.25
+manufacturing_, Belgium ,2021,73193410993.0,High,54817184682.25
+manufacturing_, Bangladesh ,2021,88108290232.0,High,54817184682.25
+manufacturing_, Egypt ,2021,65952775797.0,High,54817184682.25
+manufacturing_, Poland ,2021,114000000000.0,High,54817184682.25
+manufacturing_, France ,2021,263000000000.0,High,54817184682.25
+manufacturing_, Russian Federation ,2021,261000000000.0,High,54817184682.25
+manufacturing_, Philippines ,2021,69504249730.0,High,54817184682.25
+manufacturing_, Germany ,2021,803000000000.0,High,54817184682.25
+manufacturing_, Czechia ,2021,59399672482.0,High,54817184682.25
+manufacturing_, Saudi Arabia ,2021,109000000000.0,High,54817184682.25
+manufacturing_, India ,2021,447000000000.0,High,54817184682.25
+manufacturing_, Argentina ,2021,63840564161.0,High,54817184682.25
+manufacturing_, Viet Nam ,2021,90133661609.0,High,54817184682.25
+manufacturing_, Singapore ,2021,83662667940.0,High,54817184682.25
+manufacturing_, Spain ,2021,165000000000.0,High,54817184682.25
+manufacturing_, China ,2021,4870000000000.0,High,54817184682.25
+manufacturing_, Ireland ,2021,175000000000.0,High,54817184682.25
+manufacturing_, Nigeria ,2021,62960881344.0,High,54817184682.25
+manufacturing_, Australia ,2021,94035996640.0,High,54817184682.25
+manufacturing_, United States ,2021,2500000000000.0,High,54817184682.25
+manufacturing_, Netherlands ,2021,110000000000.0,High,54817184682.25
+manufacturing_, Indonesia ,2021,228000000000.0,High,54817184682.25
+manufacturing_, Iran (Islamic Republic of) ,2021,102000000000.0,High,54817184682.25
+manufacturing_, Switzerland ,2021,153000000000.0,High,54817184682.25
+manufacturing_, Sweden ,2021,80588074795.0,High,54817184682.25
+manufacturing_, Italy ,2021,314000000000.0,High,54817184682.25
+manufacturing_, Canada ,2021,196000000000.0,High,54817184682.25
+manufacturing_, Thailand ,2021,137000000000.0,High,54817184682.25
+manufacturing_, Japan ,2021,995000000000.0,High,54817184682.25
+manufacturing_, Republic of Korea ,2021,461000000000.0,High,54817184682.25
+manufacturing_, Brazil ,2021,168000000000.0,High,54817184682.25
+manufacturing_, Austria ,2021,79481035892.0,High,54817184682.25
+manufacturing_, Mexico ,2021,230000000000.0,High,54817184682.25
+manufacturing_, Türkiye ,2021,182000000000.0,High,54817184682.25
+manufacturing_, United Kingdom ,2021,275000000000.0,High,54817184682.25
+mining_manufacturing_utilities_, Malaysia ,2021,127000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Poland ,2021,148000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, France ,2021,344000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Russian Federation ,2021,468000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Germany ,2021,926000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Saudi Arabia ,2021,334000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, India ,2021,596000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Spain ,2021,219000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, China ,2021,5780000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Ireland ,2021,180000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Norway ,2021,145000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Australia ,2021,365000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, United States ,2021,3270000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Netherlands ,2021,135000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Indonesia ,2021,349000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Iran (Islamic Republic of) ,2021,186000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Switzerland ,2021,169000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Italy ,2021,380000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Canada ,2021,336000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Thailand ,2021,162000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Japan ,2021,1150000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Republic of Korea ,2021,494000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Brazil ,2021,248000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, United Arab Emirates ,2021,157000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Mexico ,2021,333000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, Türkiye ,2021,213000000000.0,High,116507747438.25
+mining_manufacturing_utilities_, United Kingdom ,2021,381000000000.0,High,116507747438.25
+other_activities_, Belgium ,2021,288000000000.0,High,154116386061.0
+other_activities_, Poland ,2021,217000000000.0,High,154116386061.0
+other_activities_, France ,2021,1470000000000.0,High,154116386061.0
+other_activities_, Russian Federation ,2021,566000000000.0,High,154116386061.0
+other_activities_, Germany ,2021,1870000000000.0,High,154116386061.0
+other_activities_, Saudi Arabia ,2021,267000000000.0,High,154116386061.0
+other_activities_, Denmark ,2021,170000000000.0,High,154116386061.0
+other_activities_, India ,2021,1040000000000.0,High,154116386061.0
+other_activities_, Argentina ,2021,162000000000.0,High,154116386061.0
+other_activities_, Spain ,2021,627000000000.0,High,154116386061.0
+other_activities_, China ,2021,5970000000000.0,High,154116386061.0
+other_activities_, Norway ,2021,182000000000.0,High,154116386061.0
+other_activities_," China, Hong Kong SAR ",2021,225000000000.0,High,154116386061.0
+other_activities_, South Africa ,2021,186000000000.0,High,154116386061.0
+other_activities_, Australia ,2021,820000000000.0,High,154116386061.0
+other_activities_, United States ,2021,12900000000000.0,High,154116386061.0
+other_activities_, Netherlands ,2021,469000000000.0,High,154116386061.0
+other_activities_, Indonesia ,2021,223000000000.0,High,154116386061.0
+other_activities_, Iran (Islamic Republic of) ,2021,174000000000.0,High,154116386061.0
+other_activities_, Switzerland ,2021,381000000000.0,High,154116386061.0
+other_activities_, Sweden ,2021,272000000000.0,High,154116386061.0
+other_activities_, Israel ,2021,229000000000.0,High,154116386061.0
+other_activities_, Italy ,2021,925000000000.0,High,154116386061.0
+other_activities_, Canada ,2021,963000000000.0,High,154116386061.0
+other_activities_, Japan ,2021,2210000000000.0,High,154116386061.0
+other_activities_, Republic of Korea ,2021,730000000000.0,High,154116386061.0
+other_activities_, Brazil ,2021,653000000000.0,High,154116386061.0
+other_activities_, Austria ,2021,195000000000.0,High,154116386061.0
+other_activities_, Mexico ,2021,357000000000.0,High,154116386061.0
+other_activities_, Türkiye ,2021,209000000000.0,High,154116386061.0
+other_activities_, United Kingdom ,2021,1600000000000.0,High,154116386061.0
+total_value_added, Belgium ,2021,529000000000.0,High,449536014948.5
+total_value_added, Poland ,2021,591000000000.0,High,449536014948.5
+total_value_added, France ,2021,2620000000000.0,High,449536014948.5
+total_value_added, Russian Federation ,2021,1600000000000.0,High,449536014948.5
+total_value_added, Germany ,2021,3850000000000.0,High,449536014948.5
+total_value_added, Saudi Arabia ,2021,788000000000.0,High,449536014948.5
+total_value_added, India ,2021,2890000000000.0,High,449536014948.5
+total_value_added, Spain ,2021,1290000000000.0,High,449536014948.5
+total_value_added, China ,2021,17700000000000.0,High,449536014948.5
+total_value_added, Ireland ,2021,475000000000.0,High,449536014948.5
+total_value_added, Australia ,2021,1620000000000.0,High,449536014948.5
+total_value_added, United States ,2021,23300000000000.0,High,449536014948.5
+total_value_added, Netherlands ,2021,902000000000.0,High,449536014948.5
+total_value_added, Indonesia ,2021,1140000000000.0,High,449536014948.5
+total_value_added, Iran (Islamic Republic of) ,2021,574000000000.0,High,449536014948.5
+total_value_added, Switzerland ,2021,790000000000.0,High,449536014948.5
+total_value_added, Sweden ,2021,564000000000.0,High,449536014948.5
+total_value_added, Italy ,2021,1890000000000.0,High,449536014948.5
+total_value_added, Canada ,2021,1850000000000.0,High,449536014948.5
+total_value_added, Thailand ,2021,506000000000.0,High,449536014948.5
+total_value_added, Japan ,2021,4910000000000.0,High,449536014948.5
+total_value_added, Republic of Korea ,2021,1650000000000.0,High,449536014948.5
+total_value_added, Brazil ,2021,1370000000000.0,High,449536014948.5
+total_value_added, Mexico ,2021,1200000000000.0,High,449536014948.5
+total_value_added, Türkiye ,2021,732000000000.0,High,449536014948.5
+total_value_added, United Kingdom ,2021,2810000000000.0,High,449536014948.5
+transport_storage_and_communication_, Belgium ,2021,52717810745.0,High,41161098298.125
+transport_storage_and_communication_, Poland ,2021,63242363896.0,High,41161098298.125
+transport_storage_and_communication_, France ,2021,283000000000.0,High,41161098298.125
+transport_storage_and_communication_, Russian Federation ,2021,116000000000.0,High,41161098298.125
+transport_storage_and_communication_, Germany ,2021,367000000000.0,High,41161098298.125
+transport_storage_and_communication_, Saudi Arabia ,2021,45671772961.0,High,41161098298.125
+transport_storage_and_communication_, Denmark ,2021,43440764691.0,High,41161098298.125
+transport_storage_and_communication_, India ,2021,171000000000.0,High,41161098298.125
+transport_storage_and_communication_, Singapore ,2021,43963924624.0,High,41161098298.125
+transport_storage_and_communication_, Spain ,2021,102000000000.0,High,41161098298.125
+transport_storage_and_communication_, China ,2021,1410000000000.0,High,41161098298.125
+transport_storage_and_communication_, Ireland ,2021,92450618407.0,High,41161098298.125
+transport_storage_and_communication_, Nigeria ,2021,51768213546.0,High,41161098298.125
+transport_storage_and_communication_, Australia ,2021,104000000000.0,High,41161098298.125
+transport_storage_and_communication_, United States ,2021,2490000000000.0,High,41161098298.125
+transport_storage_and_communication_, Netherlands ,2021,89203521605.0,High,41161098298.125
+transport_storage_and_communication_, Indonesia ,2021,103000000000.0,High,41161098298.125
+transport_storage_and_communication_, Iran (Islamic Republic of) ,2021,49061589273.0,High,41161098298.125
+transport_storage_and_communication_, Switzerland ,2021,64280177275.0,High,41161098298.125
+transport_storage_and_communication_, Sweden ,2021,74236582199.0,High,41161098298.125
+transport_storage_and_communication_, Israel ,2021,67973553853.0,High,41161098298.125
+transport_storage_and_communication_, Italy ,2021,167000000000.0,High,41161098298.125
+transport_storage_and_communication_, Canada ,2021,144000000000.0,High,41161098298.125
+transport_storage_and_communication_, Japan ,2021,491000000000.0,High,41161098298.125
+transport_storage_and_communication_, Republic of Korea ,2021,143000000000.0,High,41161098298.125
+transport_storage_and_communication_, Brazil ,2021,103000000000.0,High,41161098298.125
+transport_storage_and_communication_, Mexico ,2021,94029025198.0,High,41161098298.125
+transport_storage_and_communication_, Türkiye ,2021,94603608855.0,High,41161098298.125
+transport_storage_and_communication_, United Kingdom ,2021,276000000000.0,High,41161098298.125
+wholesale_retail_trade_restaurants_and_hotels_, Malaysia ,2021,69405586537.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Belgium ,2021,67601178259.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Egypt ,2021,65655681490.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Poland ,2021,107000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, France ,2021,328000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Russian Federation ,2021,260000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Philippines ,2021,76916279078.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Germany ,2021,438000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Saudi Arabia ,2021,76680354158.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, India ,2021,306000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Argentina ,2021,75740905225.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Singapore ,2021,77260355543.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Spain ,2021,233000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, China ,2021,1990000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_," China, Hong Kong SAR ",2021,74884138628.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Australia ,2021,159000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, United States ,2021,3520000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Netherlands ,2021,145000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Indonesia ,2021,183000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Iran (Islamic Republic of) ,2021,68557284436.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Switzerland ,2021,132000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Sweden ,2021,65556768648.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Italy ,2021,283000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Canada ,2021,235000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Thailand ,2021,101000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Japan ,2021,733000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Republic of Korea ,2021,158000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Brazil ,2021,199000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Austria ,2021,66613258933.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Mexico ,2021,271000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, Türkiye ,2021,128000000000.0,High,63541658395.25
+wholesale_retail_trade_restaurants_and_hotels_, United Kingdom ,2021,358000000000.0,High,63541658395.25
+gross_national_income, Belgium ,2021,600000000000.0,High,447723371272.75
+gross_national_income, Poland ,2021,648000000000.0,High,447723371272.75
+gross_national_income, France ,2021,3050000000000.0,High,447723371272.75
+gross_national_income, Russian Federation ,2021,1740000000000.0,High,447723371272.75
+gross_national_income, Germany ,2021,4410000000000.0,High,447723371272.75
+gross_national_income, Saudi Arabia ,2021,850000000000.0,High,447723371272.75
+gross_national_income, India ,2021,3150000000000.0,High,447723371272.75
+gross_national_income, Argentina ,2021,479000000000.0,High,447723371272.75
+gross_national_income, Spain ,2021,1430000000000.0,High,447723371272.75
+gross_national_income, China ,2021,17600000000000.0,High,447723371272.75
+gross_national_income, Norway ,2021,503000000000.0,High,447723371272.75
+gross_national_income, Australia ,2021,1670000000000.0,High,447723371272.75
+gross_national_income, United States ,2021,23600000000000.0,High,447723371272.75
+gross_national_income, Netherlands ,2021,990000000000.0,High,447723371272.75
+gross_national_income, Indonesia ,2021,1150000000000.0,High,447723371272.75
+gross_national_income, Iran (Islamic Republic of) ,2021,576000000000.0,High,447723371272.75
+gross_national_income, Switzerland ,2021,783000000000.0,High,447723371272.75
+gross_national_income, Sweden ,2021,654000000000.0,High,447723371272.75
+gross_national_income, Israel ,2021,474000000000.0,High,447723371272.75
+gross_national_income, Italy ,2021,2150000000000.0,High,447723371272.75
+gross_national_income, Canada ,2021,1970000000000.0,High,447723371272.75
+gross_national_income, Thailand ,2021,488000000000.0,High,447723371272.75
+gross_national_income, Japan ,2021,5130000000000.0,High,447723371272.75
+gross_national_income, Republic of Korea ,2021,1830000000000.0,High,447723371272.75
+gross_national_income, Brazil ,2021,1570000000000.0,High,447723371272.75
+gross_national_income, Austria ,2021,483000000000.0,High,447723371272.75
+gross_national_income, Mexico ,2021,1260000000000.0,High,447723371272.75
+gross_national_income, Türkiye ,2021,807000000000.0,High,447723371272.75
+gross_national_income, United Kingdom ,2021,3120000000000.0,High,447723371272.75
+gross_domestic_product_, Belgium ,2021,594000000000.0,High,477170778419.75
+gross_domestic_product_, Poland ,2021,679000000000.0,High,477170778419.75
+gross_domestic_product_, France ,2021,2960000000000.0,High,477170778419.75
+gross_domestic_product_, Russian Federation ,2021,1780000000000.0,High,477170778419.75
+gross_domestic_product_, Germany ,2021,4260000000000.0,High,477170778419.75
+gross_domestic_product_, Saudi Arabia ,2021,834000000000.0,High,477170778419.75
+gross_domestic_product_, India ,2021,3200000000000.0,High,477170778419.75
+gross_domestic_product_, Argentina ,2021,487000000000.0,High,477170778419.75
+gross_domestic_product_, Spain ,2021,1430000000000.0,High,477170778419.75
+gross_domestic_product_, China ,2021,17700000000000.0,High,477170778419.75
+gross_domestic_product_, Ireland ,2021,504000000000.0,High,477170778419.75
+gross_domestic_product_, Norway ,2021,482000000000.0,High,477170778419.75
+gross_domestic_product_, Australia ,2021,1730000000000.0,High,477170778419.75
+gross_domestic_product_, United States ,2021,23300000000000.0,High,477170778419.75
+gross_domestic_product_, Netherlands ,2021,1010000000000.0,High,477170778419.75
+gross_domestic_product_, Indonesia ,2021,1190000000000.0,High,477170778419.75
+gross_domestic_product_, Iran (Islamic Republic of) ,2021,595000000000.0,High,477170778419.75
+gross_domestic_product_, Switzerland ,2021,813000000000.0,High,477170778419.75
+gross_domestic_product_, Sweden ,2021,636000000000.0,High,477170778419.75
+gross_domestic_product_, Israel ,2021,482000000000.0,High,477170778419.75
+gross_domestic_product_, Italy ,2021,2110000000000.0,High,477170778419.75
+gross_domestic_product_, Canada ,2021,1990000000000.0,High,477170778419.75
+gross_domestic_product_, Thailand ,2021,506000000000.0,High,477170778419.75
+gross_domestic_product_, Japan ,2021,4940000000000.0,High,477170778419.75
+gross_domestic_product_, Republic of Korea ,2021,1810000000000.0,High,477170778419.75
+gross_domestic_product_, Brazil ,2021,1610000000000.0,High,477170778419.75
+gross_domestic_product_, Austria ,2021,480000000000.0,High,477170778419.75
+gross_domestic_product_, Mexico ,2021,1270000000000.0,High,477170778419.75
+gross_domestic_product_, Türkiye ,2021,819000000000.0,High,477170778419.75
+gross_domestic_product_, United Kingdom ,2021,3130000000000.0,High,477170778419.75
+export_dependency, Malta ,2021,1.7034780112861234,High,1.020658182837686
+export_dependency, Luxembourg ,2021,2.11680447981541,High,1.020658182837686
+export_dependency, Djibouti ,2021,1.5151557826296194,High,1.020658182837686
+export_dependency, San Marino ,2021,1.7909002700731846,High,1.020658182837686
+export_dependency, Seychelles ,2021,1.1151991184845305,High,1.020658182837686
+export_dependency, Singapore ,2021,1.848866498740554,High,1.020658182837686
+export_dependency, Ireland ,2021,1.3452380952380951,High,1.020658182837686
+export_dependency," China, Hong Kong SAR ",2021,2.035230352303523,High,1.020658182837686
+export_dependency, Sint Maarten (Dutch part) ,2021,1.0232327907863312,High,1.020658182837686
+export_dependency, United Arab Emirates ,2021,1.0493827160493827,High,1.020658182837686
+export_dependency, British Virgin Islands ,2021,1.1191875104826945,High,1.020658182837686
+import_dependency, Malta ,2021,1.5391484845921093,High,1.052937787073828
+import_dependency, Luxembourg ,2021,1.765952908575287,High,1.052937787073828
+import_dependency, Djibouti ,2021,1.7714678620521211,High,1.052937787073828
+import_dependency, San Marino ,2021,1.535695778625292,High,1.052937787073828
+import_dependency, Seychelles ,2021,1.2430297191192707,High,1.052937787073828
+import_dependency, Singapore ,2021,1.5340050377833754,High,1.052937787073828
+import_dependency," China, Hong Kong SAR ",2021,1.989159891598916,High,1.052937787073828
+trade_openness, Malta ,2021,3.2426264958782327,High,1.8877174543261916
+trade_openness, Luxembourg ,2021,3.882757388390697,High,1.8877174543261916
+trade_openness, Djibouti ,2021,3.2866236446817405,High,1.8877174543261916
+trade_openness, San Marino ,2021,3.3265960486984767,High,1.8877174543261916
+trade_openness, Seychelles ,2021,2.3582288376038014,High,1.8877174543261916
+trade_openness, Singapore ,2021,3.382871536523929,High,1.8877174543261916
+trade_openness, Ireland ,2021,2.2956349206349205,High,1.8877174543261916
+trade_openness," China, Hong Kong SAR ",2021,4.024390243902439,High,1.8877174543261916
+trade_openness, Sint Maarten (Dutch part) ,2021,2.061944226135056,High,1.8877174543261916
+trade_openness, United Arab Emirates ,2021,1.9086419753086417,High,1.8877174543261916
+trade_openness, British Virgin Islands ,2021,1.8892847705422335,High,1.8877174543261916
+investment_ratio, Mauritania ,2021,0.5716103310339959,High,0.4328877382456702
+investment_ratio, Cabo Verde ,2021,0.4559556012801143,High,0.4328877382456702
+investment_ratio, Mozambique ,2021,0.4982381745739673,High,0.4328877382456702
+investment_ratio, Turkmenistan ,2021,0.4954593078721832,High,0.4328877382456702
+government_share, Timor-Leste ,2021,0.4774865838524368,High,0.3551064508972567
+government_share, Kiribati ,2021,0.7048350844238435,High,0.3551064508972567
+government_share, Micronesia (FS of) ,2021,0.4376184753229424,High,0.3551064508972567
+government_share, Greenland ,2021,0.4388605452826544,High,0.3551064508972567
+government_share, Palau ,2021,0.4500304741419096,High,0.3551064508972567
+government_share, Marshall Islands ,2021,0.4769251106121512,High,0.3551064508972567
+government_share, Cuba ,2021,0.5251940943228346,High,0.3551064508972567
+government_share, Nauru ,2021,0.704835085939334,High,0.3551064508972567
+government_share, Libya ,2021,0.3788219748619097,High,0.3551064508972567
+government_share, Montserrat ,2021,0.5715327761432125,High,0.3551064508972567
+government_share, Tuvalu ,2021,0.928815417498017,High,0.3551064508972567
+government_share, Lesotho ,2021,0.4153042587951527,High,0.3551064508972567
+household_share, Somalia ,2021,1.4052737530880095,High,1.0655404525615149
+household_share, Lebanon ,2021,1.2691030934322902,High,1.0655404525615149
+household_share, Tonga ,2021,1.0905965858012805,High,1.0655404525615149
+household_share, Turkmenistan ,2021,0.1099396720502252,Low,0.18480967521270575
+agriculture_share, Sierra Leone ,2021,0.5744879051428966,High,0.39325261353406166
+agriculture_share, Chad ,2021,0.439024331172174,High,0.39325261353406166
+agriculture_share, Somalia ,2021,0.5287244480317164,High,0.39325261353406166
+agriculture_share, Liberia ,2021,0.6688491813322458,High,0.39325261353406166
+services_share, Cayman Islands ,2021,0.6998539762873919,High,0.6743763456623068
+services_share, British Virgin Islands ,2021,0.7197364883512037,High,0.6743763456623068
+services_share, Bermuda ,2021,0.7583041589326155,High,0.6743763456623068
+gdp_per_person, Belgium ,2021,51156.53823189052,High,49853.01427709697
+gdp_per_person, Liechtenstein ,2021,169260.21698814008,High,49853.01427709697
+gdp_per_person, Luxembourg ,2021,133745.4015025316,High,49853.01427709697
+gdp_per_person, Finland ,2021,53648.92145797898,High,49853.01427709697
+gdp_per_person, Qatar ,2021,66958.43183352645,High,49853.01427709697
+gdp_per_person, San Marino ,2021,50425.10214846644,High,49853.01427709697
+gdp_per_person, Germany ,2021,51073.898247894336,High,49853.01427709697
+gdp_per_person, Greenland ,2021,58185.24074107,High,49853.01427709697
+gdp_per_person, Denmark ,2021,67984.91349859248,High,49853.01427709697
+gdp_per_person, Iceland ,2021,69133.13408130477,High,49853.01427709697
+gdp_per_person, Singapore ,2021,66823.09217547037,High,49853.01427709697
+gdp_per_person, Ireland ,2021,101072.36982219684,High,49853.01427709697
+gdp_per_person, Norway ,2021,89209.35158312359,High,49853.01427709697
+gdp_per_person, Australia ,2021,66741.02311056454,High,49853.01427709697
+gdp_per_person, United States ,2021,69139.95334281644,High,49853.01427709697
+gdp_per_person, Cayman Islands ,2021,85250.26524891394,High,49853.01427709697
+gdp_per_person, Netherlands ,2021,57708.692917532106,High,49853.01427709697
+gdp_per_person, Switzerland ,2021,93540.6768479116,High,49853.01427709697
+gdp_per_person, Sweden ,2021,60761.83300871292,High,49853.01427709697
+gdp_per_person, Israel ,2021,54156.94435284081,High,49853.01427709697
+gdp_per_person, Canada ,2021,52155.66437248139,High,49853.01427709697
+gdp_per_person, Monaco ,2021,234317.0848279998,High,49853.01427709697
+gdp_per_person, Austria ,2021,53799.10204815423,High,49853.01427709697
+gdp_per_person, Bermuda ,2021,112652.6463503934,High,49853.01427709697
+investment_per_person, Belgium ,2021,13348.92832650342,High,12287.907027833417
+investment_per_person, Liechtenstein ,2021,39865.62176285253,High,12287.907027833417
+investment_per_person, Luxembourg ,2021,23478.20017956551,High,12287.907027833417
+investment_per_person, Finland ,2021,12869.156118361445,High,12287.907027833417
+investment_per_person, Qatar ,2021,25754.182883564867,High,12287.907027833417
+investment_per_person, Greenland ,2021,16546.937396653804,High,12287.907027833417
+investment_per_person, Denmark ,2021,15627.31399600973,High,12287.907027833417
+investment_per_person, Iceland ,2021,15792.552081223756,High,12287.907027833417
+investment_per_person, Singapore ,2021,16271.94136820702,High,12287.907027833417
+investment_per_person, Ireland ,2021,25067.55203923533,High,12287.907027833417
+investment_per_person, Norway ,2021,22579.960359213856,High,12287.907027833417
+investment_per_person, Australia ,2021,15547.186308414744,High,12287.907027833417
+investment_per_person, United States ,2021,14599.50946122991,High,12287.907027833417
+investment_per_person, Cayman Islands ,2021,14639.261300927556,High,12287.907027833417
+investment_per_person, Netherlands ,2021,12398.798379311354,High,12287.907027833417
+investment_per_person, Switzerland ,2021,21975.730969189564,High,12287.907027833417
+investment_per_person, Sweden ,2021,15763.68309188307,High,12287.907027833417
+investment_per_person, Israel ,2021,12359.46862824168,High,12287.907027833417
+investment_per_person, Canada ,2021,12370.589740608651,High,12287.907027833417
+investment_per_person, Monaco ,2021,58641.81210816115,High,12287.907027833417
+investment_per_person, Austria ,2021,14906.834525842734,High,12287.907027833417
+investment_per_person, Bermuda ,2021,15257.525138272182,High,12287.907027833417
+exports_per_person, Belgium ,2021,44439.013009521055,High,25003.809185605616
+exports_per_person, Liechtenstein ,2021,118388.57916442532,High,25003.809185605616
+exports_per_person, Malta ,2021,57307.71851435601,High,25003.809185605616
+exports_per_person, Luxembourg ,2021,283112.8650552696,High,25003.809185605616
+exports_per_person, Qatar ,2021,39431.0765241878,High,25003.809185605616
+exports_per_person, San Marino ,2021,90306.32905615646,High,25003.809185605616
+exports_per_person, Denmark ,2021,40654.295006696,High,25003.809185605616
+exports_per_person, Iceland ,2021,26407.16992182753,High,25003.809185605616
+exports_per_person, Cyprus ,2021,27960.704099187755,High,25003.809185605616
+exports_per_person, Singapore ,2021,123546.97646547922,High,25003.809185605616
+exports_per_person, Ireland ,2021,135966.40226081244,High,25003.809185605616
+exports_per_person, Norway ,2021,37016.32845772763,High,25003.809185605616
+exports_per_person," China, Hong Kong SAR ",2021,100205.77542858318,High,25003.809185605616
+exports_per_person, Cayman Islands ,2021,52768.20589702947,High,25003.809185605616
+exports_per_person, Netherlands ,2021,47995.34856507621,High,25003.809185605616
+exports_per_person, Switzerland ,2021,65466.968175229646,High,25003.809185605616
+exports_per_person, Sweden ,2021,27610.329779116408,High,25003.809185605616
+exports_per_person, Sint Maarten (Dutch part) ,2021,26807.361518550475,High,25003.809185605616
+exports_per_person, Brunei Darussalam ,2021,25212.25151502224,High,25003.809185605616
+exports_per_person, Monaco ,2021,69003.45679550782,High,25003.809185605616
+exports_per_person, Austria ,2021,30149.913439486438,High,25003.809185605616
+exports_per_person, United Arab Emirates ,2021,45381.03788035317,High,25003.809185605616
+exports_per_person, British Virgin Islands ,2021,55336.96051024999,High,25003.809185605616
+exports_per_person, Bermuda ,2021,56060.50449481966,High,25003.809185605616
+exports_per_person," China, Macao SAR ",2021,38458.66861537968,High,25003.809185605616
+imports_per_person, Belgium ,2021,43922.280300108025,High,27491.630434836683
+imports_per_person, Liechtenstein ,2021,93366.58410819947,High,27491.630434836683
+imports_per_person, Malta ,2021,51779.41101817188,High,27491.630434836683
+imports_per_person, Luxembourg ,2021,236188.0807919652,High,27491.630434836683
+imports_per_person, San Marino ,2021,77437.61650614906,High,27491.630434836683
+imports_per_person, Greenland ,2021,28192.121970734137,High,27491.630434836683
+imports_per_person, Denmark ,2021,35700.620405039765,High,27491.630434836683
+imports_per_person, Iceland ,2021,27641.7289508148,High,27491.630434836683
+imports_per_person, Singapore ,2021,102506.9600374344,High,27491.630434836683
+imports_per_person, Ireland ,2021,96058.8594143498,High,27491.630434836683
+imports_per_person," China, Hong Kong SAR ",2021,97937.46892753668,High,27491.630434836683
+imports_per_person, Cayman Islands ,2021,38435.34643947399,High,27491.630434836683
+imports_per_person, Netherlands ,2021,42110.20463388234,High,27491.630434836683
+imports_per_person, Switzerland ,2021,51545.17002197343,High,27491.630434836683
+imports_per_person, Monaco ,2021,73554.2791800687,High,27491.630434836683
+imports_per_person, Austria ,2021,29813.66905168547,High,27491.630434836683
+imports_per_person, United Arab Emirates ,2021,37159.06160555976,High,27491.630434836683
+imports_per_person, British Virgin Islands ,2021,38076.58794421952,High,27491.630434836683
+imports_per_person," China, Macao SAR ",2021,33048.650220577416,High,27491.630434836683
