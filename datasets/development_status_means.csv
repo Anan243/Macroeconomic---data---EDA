@@ -1,0 +1,4 @@
+development_status,trade_openness,investment_ratio,government_share,household_share,agriculture_share,services_share,export_dependency,import_dependency
+Developed,1.234,0.234,0.213,0.528,0.019,0.438,0.628,0.606
+Developing,0.818,0.253,0.185,0.667,0.114,0.316,0.355,0.463
+Under-developed,0.583,0.221,0.139,0.766,0.282,0.215,0.226,0.357

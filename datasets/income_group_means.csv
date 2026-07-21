@@ -1,0 +1,5 @@
+income_group,trade_openness,investment_ratio,government_share,household_share,agriculture_share,services_share,export_dependency,import_dependency
+High Income,1.234,0.234,0.213,0.528,0.019,0.438,0.628,0.606
+Low Income,0.583,0.221,0.139,0.766,0.282,0.215,0.226,0.357
+Lower Middle Income,0.76,0.269,0.173,0.7,0.154,0.288,0.306,0.454
+Upper Middle Income,0.875,0.237,0.196,0.635,0.075,0.344,0.403,0.472

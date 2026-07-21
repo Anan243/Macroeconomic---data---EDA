@@ -1,0 +1,17 @@
+Grouping,Indicator,Highest Average,Lowest Average,Highest Value,Lowest Value
+income_group,trade_openness,High Income,Low Income,1.234,0.583
+income_group,investment_ratio,Lower Middle Income,Low Income,0.269,0.221
+income_group,government_share,High Income,Low Income,0.213,0.139
+income_group,household_share,Low Income,High Income,0.766,0.528
+income_group,agriculture_share,Low Income,High Income,0.282,0.019
+income_group,services_share,High Income,Low Income,0.438,0.215
+income_group,export_dependency,High Income,Low Income,0.628,0.226
+income_group,import_dependency,High Income,Low Income,0.606,0.357
+development_status,trade_openness,Developed,Under-developed,1.234,0.583
+development_status,investment_ratio,Developing,Under-developed,0.253,0.221
+development_status,government_share,Developed,Under-developed,0.213,0.139
+development_status,household_share,Under-developed,Developed,0.766,0.528
+development_status,agriculture_share,Under-developed,Developed,0.282,0.019
+development_status,services_share,Developed,Under-developed,0.438,0.215
+development_status,export_dependency,Developed,Under-developed,0.628,0.226
+development_status,import_dependency,Developed,Under-developed,0.606,0.357
